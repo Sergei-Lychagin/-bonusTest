@@ -1,0 +1,5 @@
+"ForRegisteredAndUnderLimit"; 100060; true; 30
+"ForRegisteredAndOverLimit"; 100000060; true; 500
+"ForRegisteredAndAmount0"; 0; true; 0
+"NotRegisteredAndUnderLimit"; 100060; false; 10
+"NotRegisteredAndOverLimit"; 100000060; false; 500
